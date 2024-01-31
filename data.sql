@@ -1,4 +1,4 @@
-\c biztime_db_test
+\c biztime_db
 
 DROP TABLE IF EXISTS invoices;
 DROP TABLE IF EXISTS companies;
